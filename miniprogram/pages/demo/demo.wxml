@@ -1,0 +1,9 @@
+<text>云函数</text>
+<button bindtap="login">获取用户信息</button>
+<button bindtap="http">发送HTTP请求</button>
+<text>云数据库</text>
+<button bindtap="deleteblog">删除数据</button>
+<button bindtap="getorderblog">查询排序</button>
+<button bindtap="gethotblog">条件查询</button>
+<button bindtap="getbasicblog">返回部分字段</button>
+<button bindtap="updatetitle">更新数据</button>
